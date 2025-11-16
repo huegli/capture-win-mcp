@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/capture-win-mcp"
-Repository = "https://github.com/yourusername/capture-win-mcp"
-Issues = "https://github.com/yourusername/capture-win-mcp/issues"
+Homepage = "https://github.com/huegli/capture-win-mcp"
+Repository = "https://github.com/huegli/capture-win-mcp"
+Issues = "https://github.com/huegli/capture-win-mcp/issues"
 
 [project.scripts]
 capture-win-mcp = "capture_win_mcp.server:main"

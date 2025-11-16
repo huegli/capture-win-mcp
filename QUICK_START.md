@@ -15,13 +15,13 @@ yabai --start-service
 ### Option A: From GitHub (Recommended)
 
 ```bash
-pip install git+https://github.com/yourusername/capture-win-mcp.git
+pip install git+https://github.com/huegli/capture-win-mcp.git
 ```
 
 ### Option B: From Source
 
 ```bash
-git clone https://github.com/yourusername/capture-win-mcp.git
+git clone https://github.com/huegli/capture-win-mcp.git
 cd capture-win-mcp
 pip install -e .
 ```

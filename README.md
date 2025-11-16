@@ -28,12 +28,12 @@ yabai --start-service
 
 Using `uv`:
 ```bash
-uv pip install git+https://github.com/yourusername/capture-win-mcp.git
+uv pip install git+https://github.com/huegli/capture-win-mcp.git
 ```
 
 Using `pip`:
 ```bash
-pip install git+https://github.com/yourusername/capture-win-mcp.git
+pip install git+https://github.com/huegli/capture-win-mcp.git
 ```
 
 ### Method 2: Install from PyPI
@@ -51,7 +51,7 @@ pip install capture-win-mcp
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/capture-win-mcp.git
+git clone https://github.com/huegli/capture-win-mcp.git
 cd capture-win-mcp
 
 # Create virtual environment

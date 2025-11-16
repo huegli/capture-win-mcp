@@ -75,10 +75,10 @@ pip install dist/capture_win_mcp-0.1.0.tar.gz
 
 3. Users can install directly from GitHub:
    ```bash
-   pip install git+https://github.com/yourusername/capture-win-mcp.git
+   pip install git+https://github.com/huegli/capture-win-mcp.git
 
    # Or from a specific release
-   pip install git+https://github.com/yourusername/capture-win-mcp.git@v0.1.0
+   pip install git+https://github.com/huegli/capture-win-mcp.git@v0.1.0
    ```
 
 ### 2. PyPI (Python Package Index)
